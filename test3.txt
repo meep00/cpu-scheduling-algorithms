@@ -1,0 +1,11 @@
+Liczba czyszczeń ramek fifo: 7036
+Liczba czyszczeń ramek lru: 6995
+--------------------------------
+Liczba czyszczeń ramek fifo: 7016
+Liczba czyszczeń ramek lru: 7027
+--------------------------------
+Liczba czyszczeń ramek fifo: 6977
+Liczba czyszczeń ramek lru: 6985
+--------------------------------
+Liczba czyszczeń ramek fifo: 6906
+Liczba czyszczeń ramek lru: 6966

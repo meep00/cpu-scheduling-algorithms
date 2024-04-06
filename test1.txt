@@ -1,0 +1,261 @@
+
+Data for 25 processes
+Process 1 - Arrival Time: 0, Execution Time: 8
+Process 2 - Arrival Time: 0, Execution Time: 2
+Process 3 - Arrival Time: 0, Execution Time: 9
+Process 4 - Arrival Time: 0, Execution Time: 2
+Process 5 - Arrival Time: 0, Execution Time: 7
+Process 6 - Arrival Time: 0, Execution Time: 1
+Process 7 - Arrival Time: 0, Execution Time: 6
+Process 8 - Arrival Time: 0, Execution Time: 9
+Process 9 - Arrival Time: 0, Execution Time: 9
+Process 10 - Arrival Time: 0, Execution Time: 5
+Process 11 - Arrival Time: 0, Execution Time: 2
+Process 12 - Arrival Time: 0, Execution Time: 3
+Process 13 - Arrival Time: 0, Execution Time: 2
+Process 14 - Arrival Time: 0, Execution Time: 3
+Process 15 - Arrival Time: 0, Execution Time: 9
+Process 16 - Arrival Time: 0, Execution Time: 1
+Process 17 - Arrival Time: 0, Execution Time: 9
+Process 18 - Arrival Time: 0, Execution Time: 7
+Process 19 - Arrival Time: 0, Execution Time: 5
+Process 20 - Arrival Time: 0, Execution Time: 1
+Process 21 - Arrival Time: 0, Execution Time: 2
+Process 22 - Arrival Time: 0, Execution Time: 9
+Process 23 - Arrival Time: 0, Execution Time: 3
+Process 24 - Arrival Time: 0, Execution Time: 1
+Process 25 - Arrival Time: 0, Execution Time: 2
+-----------------------------------------------------------
+
+Data for 75 processes
+Process 1 - Arrival Time: 0, Execution Time: 4
+Process 2 - Arrival Time: 0, Execution Time: 4
+Process 3 - Arrival Time: 0, Execution Time: 4
+Process 4 - Arrival Time: 0, Execution Time: 3
+Process 5 - Arrival Time: 0, Execution Time: 3
+Process 6 - Arrival Time: 0, Execution Time: 5
+Process 7 - Arrival Time: 0, Execution Time: 3
+Process 8 - Arrival Time: 0, Execution Time: 7
+Process 9 - Arrival Time: 0, Execution Time: 3
+Process 10 - Arrival Time: 0, Execution Time: 1
+Process 11 - Arrival Time: 0, Execution Time: 3
+Process 12 - Arrival Time: 0, Execution Time: 3
+Process 13 - Arrival Time: 0, Execution Time: 7
+Process 14 - Arrival Time: 0, Execution Time: 6
+Process 15 - Arrival Time: 0, Execution Time: 6
+Process 16 - Arrival Time: 0, Execution Time: 1
+Process 17 - Arrival Time: 0, Execution Time: 9
+Process 18 - Arrival Time: 0, Execution Time: 4
+Process 19 - Arrival Time: 0, Execution Time: 4
+Process 20 - Arrival Time: 0, Execution Time: 6
+Process 21 - Arrival Time: 0, Execution Time: 2
+Process 22 - Arrival Time: 0, Execution Time: 1
+Process 23 - Arrival Time: 0, Execution Time: 9
+Process 24 - Arrival Time: 0, Execution Time: 6
+Process 25 - Arrival Time: 0, Execution Time: 9
+Process 26 - Arrival Time: 0, Execution Time: 9
+Process 27 - Arrival Time: 0, Execution Time: 9
+Process 28 - Arrival Time: 0, Execution Time: 8
+Process 29 - Arrival Time: 0, Execution Time: 5
+Process 30 - Arrival Time: 0, Execution Time: 3
+Process 31 - Arrival Time: 0, Execution Time: 6
+Process 32 - Arrival Time: 0, Execution Time: 3
+Process 33 - Arrival Time: 0, Execution Time: 2
+Process 34 - Arrival Time: 0, Execution Time: 1
+Process 35 - Arrival Time: 0, Execution Time: 5
+Process 36 - Arrival Time: 0, Execution Time: 7
+Process 37 - Arrival Time: 0, Execution Time: 1
+Process 38 - Arrival Time: 0, Execution Time: 3
+Process 39 - Arrival Time: 0, Execution Time: 8
+Process 40 - Arrival Time: 0, Execution Time: 1
+Process 41 - Arrival Time: 0, Execution Time: 6
+Process 42 - Arrival Time: 0, Execution Time: 3
+Process 43 - Arrival Time: 0, Execution Time: 7
+Process 44 - Arrival Time: 0, Execution Time: 6
+Process 45 - Arrival Time: 0, Execution Time: 5
+Process 46 - Arrival Time: 0, Execution Time: 9
+Process 47 - Arrival Time: 0, Execution Time: 5
+Process 48 - Arrival Time: 0, Execution Time: 1
+Process 49 - Arrival Time: 0, Execution Time: 9
+Process 50 - Arrival Time: 0, Execution Time: 4
+Process 51 - Arrival Time: 0, Execution Time: 7
+Process 52 - Arrival Time: 0, Execution Time: 6
+Process 53 - Arrival Time: 0, Execution Time: 1
+Process 54 - Arrival Time: 0, Execution Time: 8
+Process 55 - Arrival Time: 0, Execution Time: 4
+Process 56 - Arrival Time: 0, Execution Time: 3
+Process 57 - Arrival Time: 0, Execution Time: 5
+Process 58 - Arrival Time: 0, Execution Time: 1
+Process 59 - Arrival Time: 0, Execution Time: 8
+Process 60 - Arrival Time: 0, Execution Time: 2
+Process 61 - Arrival Time: 0, Execution Time: 8
+Process 62 - Arrival Time: 0, Execution Time: 9
+Process 63 - Arrival Time: 0, Execution Time: 6
+Process 64 - Arrival Time: 0, Execution Time: 9
+Process 65 - Arrival Time: 0, Execution Time: 6
+Process 66 - Arrival Time: 0, Execution Time: 9
+Process 67 - Arrival Time: 0, Execution Time: 6
+Process 68 - Arrival Time: 0, Execution Time: 1
+Process 69 - Arrival Time: 0, Execution Time: 4
+Process 70 - Arrival Time: 0, Execution Time: 8
+Process 71 - Arrival Time: 0, Execution Time: 5
+Process 72 - Arrival Time: 0, Execution Time: 8
+Process 73 - Arrival Time: 0, Execution Time: 8
+Process 74 - Arrival Time: 0, Execution Time: 3
+Process 75 - Arrival Time: 0, Execution Time: 3
+-----------------------------------------------------------
+
+Data for 125 processes
+Process 1 - Arrival Time: 0, Execution Time: 5
+Process 2 - Arrival Time: 0, Execution Time: 6
+Process 3 - Arrival Time: 0, Execution Time: 5
+Process 4 - Arrival Time: 0, Execution Time: 5
+Process 5 - Arrival Time: 0, Execution Time: 8
+Process 6 - Arrival Time: 0, Execution Time: 2
+Process 7 - Arrival Time: 0, Execution Time: 6
+Process 8 - Arrival Time: 0, Execution Time: 6
+Process 9 - Arrival Time: 0, Execution Time: 5
+Process 10 - Arrival Time: 0, Execution Time: 4
+Process 11 - Arrival Time: 0, Execution Time: 4
+Process 12 - Arrival Time: 0, Execution Time: 1
+Process 13 - Arrival Time: 0, Execution Time: 7
+Process 14 - Arrival Time: 0, Execution Time: 4
+Process 15 - Arrival Time: 0, Execution Time: 8
+Process 16 - Arrival Time: 0, Execution Time: 3
+Process 17 - Arrival Time: 0, Execution Time: 2
+Process 18 - Arrival Time: 0, Execution Time: 9
+Process 19 - Arrival Time: 0, Execution Time: 4
+Process 20 - Arrival Time: 0, Execution Time: 3
+Process 21 - Arrival Time: 0, Execution Time: 6
+Process 22 - Arrival Time: 0, Execution Time: 7
+Process 23 - Arrival Time: 0, Execution Time: 4
+Process 24 - Arrival Time: 0, Execution Time: 8
+Process 25 - Arrival Time: 0, Execution Time: 1
+Process 26 - Arrival Time: 0, Execution Time: 9
+Process 27 - Arrival Time: 0, Execution Time: 3
+Process 28 - Arrival Time: 0, Execution Time: 9
+Process 29 - Arrival Time: 0, Execution Time: 2
+Process 30 - Arrival Time: 0, Execution Time: 8
+Process 31 - Arrival Time: 0, Execution Time: 6
+Process 32 - Arrival Time: 0, Execution Time: 2
+Process 33 - Arrival Time: 0, Execution Time: 1
+Process 34 - Arrival Time: 0, Execution Time: 2
+Process 35 - Arrival Time: 0, Execution Time: 9
+Process 36 - Arrival Time: 0, Execution Time: 4
+Process 37 - Arrival Time: 0, Execution Time: 6
+Process 38 - Arrival Time: 0, Execution Time: 1
+Process 39 - Arrival Time: 0, Execution Time: 2
+Process 40 - Arrival Time: 0, Execution Time: 9
+Process 41 - Arrival Time: 0, Execution Time: 2
+Process 42 - Arrival Time: 0, Execution Time: 7
+Process 43 - Arrival Time: 0, Execution Time: 8
+Process 44 - Arrival Time: 0, Execution Time: 6
+Process 45 - Arrival Time: 0, Execution Time: 5
+Process 46 - Arrival Time: 0, Execution Time: 9
+Process 47 - Arrival Time: 0, Execution Time: 3
+Process 48 - Arrival Time: 0, Execution Time: 9
+Process 49 - Arrival Time: 0, Execution Time: 7
+Process 50 - Arrival Time: 0, Execution Time: 8
+Process 51 - Arrival Time: 0, Execution Time: 3
+Process 52 - Arrival Time: 0, Execution Time: 7
+Process 53 - Arrival Time: 0, Execution Time: 9
+Process 54 - Arrival Time: 0, Execution Time: 3
+Process 55 - Arrival Time: 0, Execution Time: 1
+Process 56 - Arrival Time: 0, Execution Time: 6
+Process 57 - Arrival Time: 0, Execution Time: 2
+Process 58 - Arrival Time: 0, Execution Time: 7
+Process 59 - Arrival Time: 0, Execution Time: 5
+Process 60 - Arrival Time: 0, Execution Time: 6
+Process 61 - Arrival Time: 0, Execution Time: 3
+Process 62 - Arrival Time: 0, Execution Time: 1
+Process 63 - Arrival Time: 0, Execution Time: 8
+Process 64 - Arrival Time: 0, Execution Time: 7
+Process 65 - Arrival Time: 0, Execution Time: 4
+Process 66 - Arrival Time: 0, Execution Time: 1
+Process 67 - Arrival Time: 0, Execution Time: 2
+Process 68 - Arrival Time: 0, Execution Time: 8
+Process 69 - Arrival Time: 0, Execution Time: 1
+Process 70 - Arrival Time: 0, Execution Time: 8
+Process 71 - Arrival Time: 0, Execution Time: 5
+Process 72 - Arrival Time: 0, Execution Time: 5
+Process 73 - Arrival Time: 0, Execution Time: 9
+Process 74 - Arrival Time: 0, Execution Time: 4
+Process 75 - Arrival Time: 0, Execution Time: 5
+Process 76 - Arrival Time: 0, Execution Time: 7
+Process 77 - Arrival Time: 0, Execution Time: 8
+Process 78 - Arrival Time: 0, Execution Time: 3
+Process 79 - Arrival Time: 0, Execution Time: 4
+Process 80 - Arrival Time: 0, Execution Time: 1
+Process 81 - Arrival Time: 0, Execution Time: 2
+Process 82 - Arrival Time: 0, Execution Time: 5
+Process 83 - Arrival Time: 0, Execution Time: 8
+Process 84 - Arrival Time: 0, Execution Time: 3
+Process 85 - Arrival Time: 0, Execution Time: 3
+Process 86 - Arrival Time: 0, Execution Time: 2
+Process 87 - Arrival Time: 0, Execution Time: 4
+Process 88 - Arrival Time: 0, Execution Time: 5
+Process 89 - Arrival Time: 0, Execution Time: 5
+Process 90 - Arrival Time: 0, Execution Time: 7
+Process 91 - Arrival Time: 0, Execution Time: 2
+Process 92 - Arrival Time: 0, Execution Time: 7
+Process 93 - Arrival Time: 0, Execution Time: 2
+Process 94 - Arrival Time: 0, Execution Time: 6
+Process 95 - Arrival Time: 0, Execution Time: 8
+Process 96 - Arrival Time: 0, Execution Time: 2
+Process 97 - Arrival Time: 0, Execution Time: 5
+Process 98 - Arrival Time: 0, Execution Time: 4
+Process 99 - Arrival Time: 0, Execution Time: 7
+Process 100 - Arrival Time: 0, Execution Time: 9
+Process 101 - Arrival Time: 0, Execution Time: 1
+Process 102 - Arrival Time: 0, Execution Time: 4
+Process 103 - Arrival Time: 0, Execution Time: 7
+Process 104 - Arrival Time: 0, Execution Time: 7
+Process 105 - Arrival Time: 0, Execution Time: 5
+Process 106 - Arrival Time: 0, Execution Time: 4
+Process 107 - Arrival Time: 0, Execution Time: 5
+Process 108 - Arrival Time: 0, Execution Time: 8
+Process 109 - Arrival Time: 0, Execution Time: 9
+Process 110 - Arrival Time: 0, Execution Time: 7
+Process 111 - Arrival Time: 0, Execution Time: 8
+Process 112 - Arrival Time: 0, Execution Time: 4
+Process 113 - Arrival Time: 0, Execution Time: 9
+Process 114 - Arrival Time: 0, Execution Time: 6
+Process 115 - Arrival Time: 0, Execution Time: 1
+Process 116 - Arrival Time: 0, Execution Time: 6
+Process 117 - Arrival Time: 0, Execution Time: 4
+Process 118 - Arrival Time: 0, Execution Time: 4
+Process 119 - Arrival Time: 0, Execution Time: 7
+Process 120 - Arrival Time: 0, Execution Time: 6
+Process 121 - Arrival Time: 0, Execution Time: 4
+Process 122 - Arrival Time: 0, Execution Time: 9
+Process 123 - Arrival Time: 0, Execution Time: 6
+Process 124 - Arrival Time: 0, Execution Time: 9
+Process 125 - Arrival Time: 0, Execution Time: 9
+-----------------------------------------------------------
+
+Średni czas oczekiwania fcfs dla 25 procesów: 61.52
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_NonP dla 25 procesów: 34.56
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_P dla 25 procesów: 34.56
+-----------------------------------------------------------
+
+Średni czas oczekiwania fcfs dla 75 procesów: 175.89333333333335
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_NonP dla 75 procesów: 130.05333333333334
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_P dla 75 procesów: 130.05333333333334
+-----------------------------------------------------------
+
+Średni czas oczekiwania fcfs dla 125 procesów: 312.072
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_NonP_ dla 125 procesów: 231.072
+-----------------------------------------------------------
+
+Średni czas oczekiwania sjf_P dla 125 procesów: 231.072
+-----------------------------------------------------------
