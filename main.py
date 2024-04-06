@@ -3,7 +3,7 @@ from cpu_algorithms import fcfs, sjf_non_preemptive, sjf_preemptive
 import numpy as np
 from page_replacement import Page, fifo, lru, generate_seq_of_pages_binomial
 
-
+#for commit1
 #Ten plik zawiera funkcje testów dla 4 algorytmów
 
 
